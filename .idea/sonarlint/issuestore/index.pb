@@ -21,3 +21,7 @@ Nemployee-service/src/main/java/com/example/employeeservice/model/Employee.java
 [department-service/src/main/java/com/departmentservice/repository/DepartmentRepository.java,3/8/3848117b537378d0e2f10de9740ad7da08e99fc7
 z
 Jdepartment-service/src/main/java/com/departmentservice/model/Employee.java,9/e/9eadf80f47f185b4f5338a628c094f1a2239b814
+Å
+Qdepartment-service/src/main/java/com/departmentservice/client/EmployeeClient.java,8/3/83d7c629a9854b8ab325e8293b63353941fe106b
+Ç
+Rdepartment-service/src/main/java/com/departmentservice/config/WebClientConfig.java,2/2/226c5cfd95a0914b6c76241da339d737a7803342
