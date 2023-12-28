@@ -45,6 +45,7 @@ public class DepartmentController {
         departments.forEach(department -> {
             department.setEmployees(employeeClient.employeesByDepartmentId(department.getId()));
         });
+        return departments;
     }
 
 }

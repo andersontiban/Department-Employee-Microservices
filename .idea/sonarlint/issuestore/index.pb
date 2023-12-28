@@ -25,3 +25,5 @@ Jdepartment-service/src/main/java/com/departmentservice/model/Employee.java,9/e
 Qdepartment-service/src/main/java/com/departmentservice/client/EmployeeClient.java,8/3/83d7c629a9854b8ab325e8293b63353941fe106b
 ‚
 Rdepartment-service/src/main/java/com/departmentservice/config/WebClientConfig.java,2/2/226c5cfd95a0914b6c76241da339d737a7803342
+~
+Napi-gatewasy/src/main/java/com/example/apigatewasy/ApiGatewasyApplication.java,f/1/f170159ffdf650a3c7f99fd04899a99d4a87c5c6
